@@ -37,3 +37,28 @@ a{
     padding: 10px;
     background-color: #FD5A96;
 }
+
+.flex{
+    min-height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem{
+    width: 300px;
+    height: auto;
+}
+
+.item{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    border: 2px solid #FD5A96;
+    margin: 10px;
+}
+
+.paragrafo{
+    padding: 50px;
+    text-align: justify;
+}
