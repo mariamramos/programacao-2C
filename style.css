@@ -66,3 +66,23 @@ a{
     padding: 50px;
     text-align: justify;
 }
+
+.footer{
+    background-color: mistyrose;
+    padding: 15px;
+    color: black;
+    font-size: 30px;
+}
+
+.redesSociais{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redeLogo{
+    margin: 10px;
+    padding: 5px;
+    width: 30px;
+    height: auto;
+}
