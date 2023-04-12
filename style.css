@@ -52,11 +52,13 @@ a{
 .imagem{
     width: 300px;
     height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(0, 0,0,0.767);
 }
 
 .item{
     display:flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     align-items: flex-start;
     /* border: 2px solid #FD5A96; */
     margin: 10px;
